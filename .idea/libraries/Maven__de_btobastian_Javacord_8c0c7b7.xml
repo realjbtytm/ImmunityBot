@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: de.btobastian:Javacord:8c0c7b7">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/de/btobastian/javacord/8c0c7b7/Javacord-8c0c7b7.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/de/btobastian/Javacord/8c0c7b7/Javacord-8c0c7b7-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/de/btobastian/Javacord/8c0c7b7/Javacord-8c0c7b7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

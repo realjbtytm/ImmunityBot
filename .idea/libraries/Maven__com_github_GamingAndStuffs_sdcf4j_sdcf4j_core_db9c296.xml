@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.github.GamingAndStuffs.sdcf4j:sdcf4j-core:db9c296">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/GamingAndStuffs/sdcf4j/sdcf4j-core/db9c296/sdcf4j-core-db9c296.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/GamingAndStuffs/sdcf4j/sdcf4j-core/db9c296/sdcf4j-core-db9c296-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/github/GamingAndStuffs/sdcf4j/sdcf4j-core/db9c296/sdcf4j-core-db9c296-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
